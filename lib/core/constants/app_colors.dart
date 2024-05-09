@@ -8,8 +8,9 @@ class AppColors {
 
   /// Container Background
   static const Color whiteGrey = Color(0xFFEFF0F7);
-  static const Color primary2 = Color(0xFF7056B2);
-  static const Color primary3 = Color(0xFFBEBFF0);
+  static const Color white = Color(0xFFF8F8FA);
+  static const Color mediumPurple = Color(0xFF7056B2);
+  static const Color lightPurple = Color(0xFFBEBFF0);
 
   /// Gradiant Colors
   static const linearBackgroundGradiant = LinearGradient(

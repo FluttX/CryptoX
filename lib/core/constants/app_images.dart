@@ -18,4 +18,8 @@ class AppImages {
   // -- Splash Screen Cover
   static const String cloudPNG = "assets/images/cloud.png";
   static const String amountBGSVG = "assets/images/amount_bg.svg";
+
+  // Mover Graph
+  static const String pinkGraph = "assets/images/pink_graph.png";
+  static const String purpleGraph = "assets/images/purple_graph.png";
 }

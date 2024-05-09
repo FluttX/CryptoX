@@ -65,6 +65,8 @@ class HomeScreen extends StatelessWidget {
           children: [
             AmountCardWidget(),
             ActionSectionWidget(),
+            SizedBox(height: AppSizes.spaceBtwSections),
+            MoverSectionWidget(),
           ],
         ),
       ),
