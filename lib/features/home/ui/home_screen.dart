@@ -59,10 +59,12 @@ class HomeScreen extends StatelessWidget {
           ],
         ),
       ),
-      body: SingleChildScrollView(
+      body: const SingleChildScrollView(
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             AmountCardWidget(),
+            ActionSectionWidget(),
           ],
         ),
       ),

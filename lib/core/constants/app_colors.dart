@@ -6,8 +6,10 @@ class AppColors {
   static const Color secondary = Color(0xFFA8A3C1);
   static const Color accent = Color(0xFFD975BB);
 
-  // Container Background
+  /// Container Background
   static const Color whiteGrey = Color(0xFFEFF0F7);
+  static const Color primary2 = Color(0xFF7056B2);
+  static const Color primary3 = Color(0xFFBEBFF0);
 
   /// Gradiant Colors
   static const linearBackgroundGradiant = LinearGradient(
@@ -50,4 +52,7 @@ class AppColors {
       Color(0xFFA03E82),
     ],
   );
+
+  /// Text Colors
+  static const headlineTextColor = Color(0xFF171532);
 }
