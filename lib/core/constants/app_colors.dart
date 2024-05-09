@@ -6,6 +6,9 @@ class AppColors {
   static const Color secondary = Color(0xFFA8A3C1);
   static const Color accent = Color(0xFFD975BB);
 
+  // Container Background
+  static const Color whiteGrey = Color(0xFFEFF0F7);
+
   /// Gradiant Colors
   static const linearBackgroundGradiant = LinearGradient(
     begin: Alignment(0, 0),
@@ -35,6 +38,16 @@ class AppColors {
       Color(0xFF8462E1),
       Color(0xFF55389B),
       Color(0xFF351B6F),
+    ],
+  );
+
+  static const linearAddCircleGradiant = LinearGradient(
+    begin: Alignment.topLeft,
+    end: Alignment.centerRight,
+    colors: [
+      Color(0xFFFFFFFF),
+      Color(0xFFB971A3),
+      Color(0xFFA03E82),
     ],
   );
 }

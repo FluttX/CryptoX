@@ -1,3 +1,4 @@
+import 'package:crypto_x/core/common/common.dart';
 import 'package:crypto_x/core/core.dart';
 import 'package:crypto_x/features/home/home.dart';
 import 'package:flutter/material.dart';
@@ -83,26 +84,7 @@ class OnBoardingScreen extends StatelessWidget {
                 },
                 child: Row(
                   children: [
-                    Container(
-                      height: 57,
-                      width: 57,
-                      decoration: BoxDecoration(
-                        shape: BoxShape.circle,
-                        gradient: AppColors.linearCircleGradiant,
-                        boxShadow: [
-                          BoxShadow(
-                            color: AppColors.primary.withOpacity(0.3),
-                            blurRadius: 10,
-                            spreadRadius: 1,
-                          )
-                        ],
-                      ),
-                      alignment: Alignment.center,
-                      child: const Icon(
-                        Icons.arrow_forward_rounded,
-                        color: Colors.white,
-                      ),
-                    ),
+                    const CircularButtonWidget(),
                     const SizedBox(width: AppSizes.spaceBtwItems),
                     Text(
                       'Get Started',
