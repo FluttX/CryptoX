@@ -1,7 +1,7 @@
 
 # CryptoX
 
-[<img src="https://github.com/FluttX/CryptoX/blob/main/screenshots/CryptoX_Cover.png">](https://youtu.be/OOLOSnTgU0Q)
+[<img src="https://github.com/FluttX/CryptoX/blob/main/screenshots/CryptoX_Cover.png">](https://youtube.com/shorts/zGvEpDoI8aU?feature=share)
 
 CryptoX is a Flutter-based cryptocurrency wallet app with a sleek design and intuitive user interface. This project incorporates Lottie animations, an onboarding screen, a home screen, and a curved navigation bar for seamless navigation.
 
@@ -31,8 +31,8 @@ CryptoX is a Flutter-based cryptocurrency wallet app with a sleek design and int
    ```
 
 ## Animation and Screenshots (GIF)
-|                                           Crypto App (GIF)                                            |                                            OnBoarding Screen                                            |                                              Home Screen                                             |
-|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+|                                           Crypto App (GIF)                                           |                                               OnBoarding Screen                                               |                                               Home Screen                                               |
+|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/FluttX/CryptoX/blob/main/screenshots/CryptoX_Animated.gif" width="250"> | <img src="https://github.com/FluttX/CryptoX/blob/main/screenshots/CryptoX_OnBoarding_Screen.png" width="250"> | <img src="https://github.com/FluttX/CryptoX/blob/main/screenshots/CryptoX_Home_Screen.png" width="250"> |
 
 
@@ -45,6 +45,7 @@ CryptoX is a Flutter-based cryptocurrency wallet app with a sleek design and int
 ## Credits
 - Code using Flutter with ❤️ by [Md. Al-Amin](https://github.com/alamin-karno)
 - **Proejct Idea:** [Fabrice SUMSA (Fabrice Fabio)](https://youtu.be/hriBJLF_r9c?si=n_YpnLQ38HDycG7U)
+- **UI/UX File:** [Crypto Wallet App (Community)](https://www.figma.com/community/file/1139401010100518801/crypto-wallet-app-community)
 - **Lottie Animations:** [lottiefiles.com](https://lottiefiles.com/)
 - **Flutter Packages:** [pub.dev](https://pub.dev/)
 
